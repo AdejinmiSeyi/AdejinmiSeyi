@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Seyi Adejinmi
+###  👋 Hi, I’m Seyi Adejinmi
 
 ## Software Engineer
 
@@ -11,7 +11,7 @@ I'm a software Engineer who is passionate about building innovative solutions us
 
 
 
-## SKILLS
+## Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,py,git,github,discord)
 
 <!---
