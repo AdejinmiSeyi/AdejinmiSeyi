@@ -1,4 +1,4 @@
-###  👋 Hi, I’m Seyi Adejinmi
+#  👋 Hi, I’m Seyi Adejinmi
 
 ## Software Engineer
 
