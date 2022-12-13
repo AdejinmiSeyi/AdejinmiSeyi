@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Seyi Adejinmi
-- 👀 I’m interested in Software Engineering
+### 👋 Hi, I’m Seyi Adejinmi
+
+## Software Engineer
+
+I'm a software Engineer who is passionate about building innovative solutions using code.
+
 - 🌱 I’m currently learning Authentication with Auth0 in Python 
-- 💞️ I’m looking to collaborate on fun Python projects
+- 💞️ I’m looking to collaborate on impactful Python projects
 - 📫 Please reach out to me for collaborations at seyifeyisara@gmail.com
+
+
+## SKILLS
+![My Skills](https://skillicons.dev/icons?i=html,css,py,git,github,discord)
 
 <!---
 AdejinmiSeyi/AdejinmiSeyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
