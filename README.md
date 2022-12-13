@@ -9,6 +9,8 @@ I'm a software Engineer who is passionate about building innovative solutions us
 - 📫 Please reach out to me for collaborations at seyifeyisara@gmail.com
 
 
+
+
 ## SKILLS
 ![My Skills](https://skillicons.dev/icons?i=html,css,py,git,github,discord)
 
