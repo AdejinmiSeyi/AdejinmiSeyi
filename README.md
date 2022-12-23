@@ -4,8 +4,8 @@
 
 I'm a software Engineer who is passionate about building innovative solutions using code.
 
-- 🌱 I’m currently learning Authentication with Auth0 in Python 
-- 💞️ I’m looking to collaborate on impactful Python projects
+- 🌱 I’m currently exploring Containerization and application deploymeant to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild 
+- 💞️ I’m looking to collaborate on more impactful Python projects.
 - 📫 Please reach out to me for collaborations at seyifeyisara@gmail.com
 
 
