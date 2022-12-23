@@ -12,7 +12,7 @@ I'm a software Engineer who is passionate about building innovative solutions us
 
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,py,git,github,postgresql)
+![My Skills](https://skillicons.dev/icons?i=html,css,py,git,github,postgresql,flask)
 
 <!---
 AdejinmiSeyi/AdejinmiSeyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
